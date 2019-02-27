@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.0.0",
+  "iOS" : [
+    {
+      "name" : "SwiftyXMLParser",
+      "hash" : "bd3af9d9dd9d9e8f210609b6b0d362fc5facc79a35d014cf1f5097d399256838"
+    }
+  ]
+}

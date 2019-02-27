@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.3.0",
+  "iOS" : [
+    {
+      "name" : "YoutubeKit",
+      "hash" : "e84cc15eef141f6bc7903c9b0927df4badddcbf331fd9268bf9376b7390a1c8b"
+    }
+  ]
+}

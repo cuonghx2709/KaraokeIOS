@@ -1,4 +1,7 @@
-# [Quản lý dự án phần mềm Karaoke]
+## Project Charter
+[Project charter](https://bit.ly/2ESrXEq)
+
+## **Tên dự án** : 
 
 ## **Các thành viên tham gia:**
     * Hoàng Xuân Cường
